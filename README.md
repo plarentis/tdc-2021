@@ -105,6 +105,7 @@ AWS re:Invent 2019: [REPEAT 3] Serverless architectural patterns and best practi
 
 [https://youtu.be/TOn0xhev0Uk](https://youtu.be/TOn0xhev0Uk)
 
+------------------------------------------------------------------------------
 
 ## Padrões Avançados de Design e Consultas para Amazon DynamoDB
 
